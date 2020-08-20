@@ -9,15 +9,15 @@
     <a href="https://dev.to/pmlf"><img width='20px' src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT6K0at0isJpj-3SbFLWmjREDEI3zDdgbFGuA&usqp=CAU" /></a>
 </p>
 
-#### Working with...
-<p>
+<h4 align='center'>Working with...</h4>
+<p align='center'>
     <img height='50px' src="https://www.probytes.net/wp-content/uploads/2018/07/javascript-logo-E967E87D74-seeklogo.com_.png" />&nbsp;&nbsp;&nbsp;&nbsp;
     <img height='50px' src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png" />&nbsp;&nbsp;&nbsp;&nbsp;
     <img height='50px' src="https://image.flaticon.com/icons/svg/29/29611.svg" />
 </p>
 
-#### Studying...
-<p>
+<h4 align='center'>Studying...</h4>
+<p align='center'>
    <img height='50px' src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/HTML5_logo_resized.svg/725px-HTML5_logo_resized.svg.png" />&nbsp;&nbsp;&nbsp;&nbsp;
    <img height='50px' src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" />&nbsp;&nbsp;&nbsp;&nbsp;
    <img height='50px' src="https://www.probytes.net/wp-content/uploads/2018/07/javascript-logo-E967E87D74-seeklogo.com_.png" />&nbsp;&nbsp;&nbsp;&nbsp;
@@ -27,12 +27,12 @@
 
 <hr>
 
-#### More about me
-- Massive football junkie ⚽
-- Attending the WC'26
-- <img width='40px' src="https://cdnimages01.azureedge.net/renascenca/logo_websummit1122977bdefaultlarge_1024.jpg" /> 3x
-- Lived in Łódź, Poland for a bit
-- Monthly playlists on my <a href="https://open.spotify.com/user/21xkghmsk6kr5jao2aniugvda">Spotify</a>
+<h4 align='center'>More about me</h4>
+<p align='center'>Massive football junkie ⚽</p>
+<p align='center'>Attending the WC'26</p>
+<p align='center'><img width='40px' src="https://cdnimages01.azureedge.net/renascenca/logo_websummit1122977bdefaultlarge_1024.jpg" /> 3x</p>
+<p align='center'>Lived in Łódź, Poland for a bit</p>
+<p align='center'>Monthly playlists on my <a href="https://open.spotify.com/user/21xkghmsk6kr5jao2aniugvda">Spotify</a></p>
 
 <h4 align='center'>30 days of code challenge this September</h4>
 <h5 align='center'>
