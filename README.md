@@ -11,7 +11,7 @@
 
 <h4 align='center'>Working with...</h4>
 <p align='center'>
-    <img height='50px' src="https://www.probytes.net/wp-content/uploads/2018/07/javascript-logo-E967E87D74-seeklogo.com_.png" />&nbsp;&nbsp;&nbsp;&nbsp;
+    <img height='50px' src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png" />&nbsp;&nbsp;&nbsp;&nbsp;
     <img height='50px' src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png" />&nbsp;&nbsp;&nbsp;&nbsp;
     <img height='50px' src="https://image.flaticon.com/icons/svg/29/29611.svg" />
 </p>
@@ -20,7 +20,7 @@
 <p align='center'>
    <img height='50px' src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/HTML5_logo_resized.svg/725px-HTML5_logo_resized.svg.png" />&nbsp;&nbsp;&nbsp;&nbsp;
    <img height='50px' src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" />&nbsp;&nbsp;&nbsp;&nbsp;
-   <img height='50px' src="https://www.probytes.net/wp-content/uploads/2018/07/javascript-logo-E967E87D74-seeklogo.com_.png" />&nbsp;&nbsp;&nbsp;&nbsp;
+   <img height='50px' src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png" />&nbsp;&nbsp;&nbsp;&nbsp;
    <img height='50px' src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/1200px-Sass_Logo_Color.svg.png" />&nbsp;&nbsp;&nbsp;&nbsp;
    <img height='50px' src="https://i.pinimg.com/originals/84/b1/06/84b1065e798f61aa80b8670a4b6fbb4d.png" />&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
