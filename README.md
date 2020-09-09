@@ -32,8 +32,6 @@
     <a href="https://www.linkedin.com/in/pedromlfonseca/">Hit me up!</a>
 </h5>
 
-<div align='center'>![visitors](https://visitor-badge.glitch.me/badge?page_id=PMLF)</div>
-
 <hr>
 
 #### More about me
@@ -42,3 +40,4 @@
 - <img width='40px' src="https://cdnimages01.azureedge.net/renascenca/logo_websummit1122977bdefaultlarge_1024.jpg" /> 3x
 - Lived in Łódź, Poland for a bit
 - Monthly playlists on my <a href="https://open.spotify.com/user/21xkghmsk6kr5jao2aniugvda">Spotify</a>
+![visitors](https://visitor-badge.glitch.me/badge?page_id=PMLF)
