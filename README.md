@@ -32,7 +32,7 @@
     <a href="https://www.linkedin.com/in/pedromlfonseca/">Hit me up!</a>
 </h5>
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=PMLF)
+<div align='center'>![visitors](https://visitor-badge.glitch.me/badge?page_id=PMLF)</div>
 
 <hr>
 
