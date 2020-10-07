@@ -25,10 +25,7 @@
    <img height='50px' src="https://i.pinimg.com/originals/84/b1/06/84b1065e798f61aa80b8670a4b6fbb4d.png" />&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
-<h4 align='center'>30 days of code challenge this September</h4>
 <h5 align='center'>
-    Care to join me?
-    <br>
     <a href="https://www.linkedin.com/in/pedromlfonseca/">Hit me up!</a>
 </h5>
 
