@@ -9,14 +9,7 @@
     <a href="https://dev.to/pmlf"><img width='20px' src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT6K0at0isJpj-3SbFLWmjREDEI3zDdgbFGuA&usqp=CAU" /></a>
 </p>
 
-<h4 align='center'>Working with...</h4>
-<p align='center'>
-    <img height='50px' src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png" />&nbsp;&nbsp;&nbsp;&nbsp;
-    <img height='50px' src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png" />&nbsp;&nbsp;&nbsp;&nbsp;
-    <img height='50px' src="https://image.flaticon.com/icons/svg/29/29611.svg" />
-</p>
-
-<h4 align='center'>Studying...</h4>
+<h4 align='center'>Currently exploring...</h4>
 <p align='center'>
    <img height='50px' src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/HTML5_logo_resized.svg/725px-HTML5_logo_resized.svg.png" />&nbsp;&nbsp;&nbsp;&nbsp;
    <img height='50px' src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" />&nbsp;&nbsp;&nbsp;&nbsp;
