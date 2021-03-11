@@ -9,12 +9,12 @@
     <a href="https://dev.to/pmlf"><img width='20px' src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT6K0at0isJpj-3SbFLWmjREDEI3zDdgbFGuA&usqp=CAU" /></a>
 </p>
 
-<h4 align='center'>Currently exploring...</h4>
+<h4 align='center'>Working daily with...</h4>
 <p align='center'>
    <img height='50px' src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/HTML5_logo_resized.svg/725px-HTML5_logo_resized.svg.png" />&nbsp;&nbsp;&nbsp;&nbsp;
    <img height='50px' src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" />&nbsp;&nbsp;&nbsp;&nbsp;
    <img height='50px' src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png" />&nbsp;&nbsp;&nbsp;&nbsp;
-   <img height='50px' src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/1200px-Sass_Logo_Color.svg.png" />&nbsp;&nbsp;&nbsp;&nbsp;
+   <img height='50px' src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1200px-Node.js_logo.svg.png" />&nbsp;&nbsp;&nbsp;&nbsp;
    <img height='50px' src="https://i.pinimg.com/originals/84/b1/06/84b1065e798f61aa80b8670a4b6fbb4d.png" />&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
