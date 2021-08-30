@@ -19,7 +19,7 @@
 </p>
 
 <h5 align='center'>
-    <a href="pmlf.github.io">>> Personal Website <<</a>
+    <a href="https://pmlf.github.io/">>> Personal Website <<</a>
     <br /><br />
     <a href="https://www.linkedin.com/in/pedromlfonseca/">Hit me up!</a>
 </h5>
