@@ -44,9 +44,9 @@
 <br />
 
 #### More about me
-- Football fan, I support my local semipro club ⚽
+- Caldas SC fan ⚽
 - Attending the WC'26
 - Football illustrator on my free time <a href="https://www.instagram.com/thedrawingdev/">@TheDrawingDev</a>
 - <img width='40px' src="https://cdnimages01.azureedge.net/renascenca/logo_websummit1122977bdefaultlarge_1024.jpg" /> 3x
-- Lived in Łódź, 🇵🇱 for a bit
+- Lived in Łódź, Poland for a bit
 - Monthly playlists on my <a href="https://open.spotify.com/user/21xkghmsk6kr5jao2aniugvda">Spotify</a>
