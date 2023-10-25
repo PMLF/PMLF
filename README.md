@@ -37,16 +37,14 @@
 <hr>
 
 <p align='center'>
-   <img height='50px' src="https://user-images.githubusercontent.com/44099019/174816382-485fe89e-6ac7-4fb9-bfbb-9b5af17024f9.png" />&nbsp;&nbsp;&nbsp;&nbsp;
+   <img height='50px' src="https://thedrawingdev.com/cdn/shop/files/Logowhite.png?v=1697819413" />&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
-<h4 align='center'>Mentor @<a href="https://weareedit.io/">EDIT - Disrutive Digital Education</a></h4>
+<h4 align='center'>Freelance sports illustrator @<a href="https://thedrawingdev.com/">The Drawing Dev</a></h4>
 
 <br />
 
 #### More about me
-- Caldas SC fan ⚽
+- <a href="https://caldassportclube.pt/">Caldas Sport Clube</a> fan ⚽
 - Attending the WC'26
-- Football illustrator on my free time <a href="https://www.instagram.com/thedrawingdev/">@TheDrawingDev</a>
 - <img width='40px' src="https://cdnimages01.azureedge.net/renascenca/logo_websummit1122977bdefaultlarge_1024.jpg" /> 3x
-- Lived in Łódź, Poland for a bit
 - Monthly playlists on my <a href="https://open.spotify.com/user/21xkghmsk6kr5jao2aniugvda">Spotify</a>
