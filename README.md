@@ -32,7 +32,7 @@
 <p align='center'>
    <img height='50px' src="https://user-images.githubusercontent.com/44099019/174816096-914671b0-efc8-45cb-9d35-b6b18961e8f0.png" />&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
-<h4 align='center'>Mentor and Team Lead @<a href="https://github.com/As-Raparigas-do-Codigo">As Raparigas do Código</a></h4>
+<h4 align='center'>Mentor @<a href="https://github.com/As-Raparigas-do-Codigo">As Raparigas do Código</a></h4>
 
 <hr>
 
