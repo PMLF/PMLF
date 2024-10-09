@@ -29,9 +29,9 @@
 <hr>
 
 <p align='center'>
-   <img height='50px' src="https://thedrawingdev.com/cdn/shop/files/Logowhite.png?v=1697819413" />&nbsp;&nbsp;&nbsp;&nbsp;
+   <img height='40px' src="https://pedro26.pt/cdn/shop/files/IMG_2552_2236de18-8012-4e70-a629-64e1be4c552a.png?v=1727203801&width=500" />&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
-<h4 align='center'>Freelance sports illustrator @<a href="https://thedrawingdev.com/">The Drawing Dev</a></h4>
+<h4 align='center'>Freelance sports illustrator @<a href="https://pedro26.pt/">Pedro26.pt</a></h4>
 
 <br />
 
