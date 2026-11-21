@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="300" viewBox="0 0 840 300" role="img" aria-label="Pedro Fonseca, design engineer, illustrator, teacher and founder. Matchday card, number 26.">
+<style>
+  .sans { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Inter, Helvetica, Arial, sans-serif; }
+  .mono { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; letter-spacing: 2.5px; }
+  .up { animation: up .8s cubic-bezier(.2,.7,.2,1) both; }
+  .fade { animation: fade 1.2s ease both; }
+  .pulse { animation: pulse 2.4s ease-in-out infinite; transform-box: fill-box; transform-origin: center; }
+  @keyframes up { from { opacity: 0; transform: translateY(14px); } to { opacity: 1; transform: none; } }
+  @keyframes fade { from { opacity: 0; } to { opacity: 1; } }
+  @keyframes pulse { 0%,100% { opacity: .25; transform: scale(.8); } 50% { opacity: 1; transform: scale(1.25); } }
+  @media (prefers-reduced-motion: reduce) { * { animation: none !important; } }
+
+  .flood { animation: flood 6s ease-in-out infinite; }
+  @keyframes flood { 0%,100% { opacity: .75; } 50% { opacity: 1; } }
+</style>
+<defs>
+  <clipPath id="c"><rect width="840" height="300" rx="18"/></clipPath>
+  <radialGradient id="fl" cx="0.9" cy="-0.1" r="0.9"><stop offset="0" stop-color="rgba(255,255,255,0)"/><stop offset="1" stop-color="rgba(255,255,255,0)" stop-opacity="0"/></radialGradient>
+  <linearGradient id="num" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#d97706" stop-opacity=".95"/><stop offset="1" stop-color="#d97706" stop-opacity=".12"/></linearGradient>
+  <radialGradient id="gl" cx="0.82" cy="0.62" r="0.45"><stop offset="0" stop-color="rgba(217,119,6,0.06)"/><stop offset="1" stop-color="rgba(217,119,6,0.06)" stop-opacity="0"/></radialGradient>
+</defs>
+<g clip-path="url(#c)">
+  <rect width="840" height="300" fill="#fbfaf7"/>
+  <rect x="70" y="0" width="70" height="300" fill="rgba(21,128,61,0.025)"/><rect x="210" y="0" width="70" height="300" fill="rgba(21,128,61,0.025)"/><rect x="350" y="0" width="70" height="300" fill="rgba(21,128,61,0.025)"/><rect x="490" y="0" width="70" height="300" fill="rgba(21,128,61,0.025)"/><rect x="630" y="0" width="70" height="300" fill="rgba(21,128,61,0.025)"/><rect x="770" y="0" width="70" height="300" fill="rgba(21,128,61,0.025)"/>
+  <rect width="840" height="300" fill="url(#gl)"/>
+  
+  <line x1="640" y1="0" x2="640" y2="300" stroke="rgba(10,10,10,0.10)"/>
+  <circle cx="640" cy="150" r="92" fill="none" stroke="rgba(10,10,10,0.10)"/>
+  <circle cx="640" cy="150" r="3" fill="rgba(10,10,10,0.10)"/>
+  <text x="804" y="246" text-anchor="end" class="sans up" style="animation-delay:.3s" font-size="230" font-weight="900" letter-spacing="-6" fill="url(#num)">26</text>
+</g>
+<rect x=".5" y=".5" width="839" height="299" rx="17.5" fill="none" stroke="rgba(10,10,10,0.08)"/>
+
+<g class="fade">
+  <text x="40" y="46" class="mono" font-size="11.5" fill="#525252">MATCHDAY · LISBON, PT</text>
+  <circle class="pulse" cx="602" cy="42" r="4" fill="#d97706"/>
+  <text x="614" y="46" class="mono" font-size="11.5" fill="#525252">ON THE PITCH · FUTURICE</text>
+</g>
+<g class="up" style="animation-delay:.1s">
+  <text x="36" y="120" class="sans" font-size="68" font-weight="900" letter-spacing="-2.5" fill="#0a0a0a">PEDRO</text>
+</g>
+<g class="up" style="animation-delay:.2s">
+  <text x="36" y="180" class="sans" font-size="68" font-weight="900" letter-spacing="-2.5" fill="#0a0a0a">FONSECA<tspan fill="#d97706">.</tspan></text>
+</g>
+<g class="up" style="animation-delay:.35s">
+  <text x="40" y="214" class="sans" font-size="17" fill="#525252"><tspan fill="#0a0a0a" font-weight="700">Design Engineer.</tspan> Illustrator. Teacher. Founder.</text>
+</g>
+<g class="up" style="animation-delay:.5s">
+  <line x1="40" y1="236" x2="560" y2="236" stroke="rgba(10,10,10,0.10)"/>
+  
+  <text x="40" y="268" class="sans" font-size="22" font-weight="900" letter-spacing="-.5" fill="#d97706">6+</text>
+  <text x="40" y="284" class="mono" font-size="9" letter-spacing="1.6" fill="#a3a3a3">SEASONS SHIPPING</text>
+  <text x="220" y="268" class="sans" font-size="22" font-weight="900" letter-spacing="-.5" fill="#d97706">8</text>
+  <text x="220" y="284" class="mono" font-size="9" letter-spacing="1.6" fill="#a3a3a3">CLIENT PROJECTS</text>
+  <text x="400" y="268" class="sans" font-size="22" font-weight="900" letter-spacing="-.5" fill="#d97706">700+</text>
+  <text x="400" y="284" class="mono" font-size="9" letter-spacing="1.6" fill="#a3a3a3">ART CUSTOMERS</text>
+</g>
+</svg>

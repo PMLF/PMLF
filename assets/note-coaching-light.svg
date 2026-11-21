@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="410" height="150" viewBox="0 0 410 150" role="img" aria-label="COACHING JOBS · FORMER: Git &amp; React tutor at EDIT – Disruptive Digital Education. Mentor for women in tech.">
+<style>
+  .sans { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Inter, Helvetica, Arial, sans-serif; }
+  .mono { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; letter-spacing: 2.5px; }
+  .up { animation: up .8s cubic-bezier(.2,.7,.2,1) both; }
+  .fade { animation: fade 1.2s ease both; }
+  .pulse { animation: pulse 2.4s ease-in-out infinite; transform-box: fill-box; transform-origin: center; }
+  @keyframes up { from { opacity: 0; transform: translateY(14px); } to { opacity: 1; transform: none; } }
+  @keyframes fade { from { opacity: 0; } to { opacity: 1; } }
+  @keyframes pulse { 0%,100% { opacity: .25; transform: scale(.8); } 50% { opacity: 1; transform: scale(1.25); } }
+  @media (prefers-reduced-motion: reduce) { * { animation: none !important; } }
+</style>
+<rect width="410" height="150" rx="16" fill="#fbfaf7"/>
+<rect x=".5" y=".5" width="409" height="149" rx="15.5" fill="none" stroke="rgba(10,10,10,0.08)"/>
+<text x="28" y="34" class="mono" font-size="10.5" fill="#d97706">COACHING JOBS · FORMER</text>
+<g class="up">
+<text x="28" y="72" class="sans" font-size="19" font-weight="900" letter-spacing="-.5" fill="#0a0a0a">EDIT <tspan fill="#a3a3a3" font-weight="400">·</tspan> As Raparigas do Código</text>
+<text x="28" y="106" class="sans" font-size="13.5" fill="#525252">Git &amp; React tutor at EDIT – Disruptive</text>
+<text x="28" y="125" class="sans" font-size="13.5" fill="#525252">Digital Education. Mentor for women in tech.</text>
+</g>
+</svg>

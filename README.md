@@ -1,39 +1,44 @@
-<h2 align='center'>👋 Hi, I'm Pedro</h2>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/matchday-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="assets/matchday-light.svg">
+    <img alt="Pedro Fonseca, design engineer, illustrator, teacher and founder" src="assets/matchday-dark.svg" width="100%">
+  </picture>
 
-<p align='center'>🏠 Lisbon, Portugal</p>
+  <p>
+    <a href="https://pedrofonseca.dev"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/btn-site-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/btn-site-light.svg"><img alt="pedrofonseca.dev" src="assets/btn-site-dark.svg" height="40"></picture></a>
+    <a href="https://www.linkedin.com/in/pedromlfonseca/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/btn-linkedin-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/btn-linkedin-light.svg"><img alt="LinkedIn" src="assets/btn-linkedin-dark.svg" height="40"></picture></a>
+    <a href="mailto:pedro@pedro26.pt"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/btn-mail-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/btn-mail-light.svg"><img alt="Email pedro@pedro26.pt" src="assets/btn-mail-dark.svg" height="40"></picture></a>
+    <a href="https://pedro26.pt"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/btn-art-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/btn-art-light.svg"><img alt="pedro26.pt, illustration shop" src="assets/btn-art-dark.svg" height="40"></picture></a>
+  </p>
+</div>
 
-<p align='center'>
-    <a href="https://www.linkedin.com/in/pedromlfonseca/"><img width='20px' src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSf_KBK_0_rRw9zkazLgksl6dNMasmTiN6SqA&usqp=CAU" /></a>&nbsp;&nbsp;&nbsp;
-    <a href="mailto:pmlfonseca@outlook.com"><img width='20px' src="https://www.freepnglogos.com/uploads/logo-outlook-png/file-microsoft-office-outlook-logo-present-svg-wikipedia-1.png" /></a>&nbsp;&nbsp;&nbsp;
-    <a href="https://open.spotify.com/user/21xkghmsk6kr5jao2aniugvda"><img width='20px' src="https://dashboard.snapcraft.io/site_media/appmedia/2017/12/spotify-linux-256.png" /></a>
+<br>
+
+I build interfaces people enjoy using, with a designer's eye and a tester's paranoia. Six seasons consulting across news, pro sport, energy, security and e-commerce, from Next.js migrations and Playwright test suites to interactive maps, charts and LLM chat tools.
+
+When I'm not writing code, I'm drawing football or teaching other people how to write code.
+
+<br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/lineup-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/lineup-light.svg">
+  <img alt="Starting XI in a 4-3-3. Forwards: Next.js, D3, Claude Code. Midfield: React, Tailwind, TanStack. Defence: Jest, Playwright, Storybook, a11y. Goalkeeper: TypeScript." src="assets/lineup-dark.svg" width="100%">
+</picture>
+
+<br><br>
+
+<p align="center">
+  <a href="https://github.com/PMLF/liga-atlantica"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/fixture-liga-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/fixture-liga-light.svg"><img alt="liga-atlantica: a fictional Portuguese football league built as a component-driven testing playground" src="assets/fixture-liga-dark.svg" width="49%"></picture></a>
+  <a href="https://pedrofonseca.dev"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/fixture-site-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/fixture-site-light.svg"><img alt="pedrofonseca.dev: bilingual portfolio" src="assets/fixture-site-dark.svg" width="49%"></picture></a>
 </p>
 
-<h4 align='center'>Working daily with</h4>
-<p align='center'>
-   <img height='50px' src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/HTML5_logo_resized.svg/725px-HTML5_logo_resized.svg.png" />&nbsp;&nbsp;&nbsp;&nbsp;
-   <img height='50px' src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" />&nbsp;&nbsp;&nbsp;&nbsp;
-   <img height='50px' src="https://user-images.githubusercontent.com/44099019/174817949-cf6527b3-cc16-48f6-9db4-b7dfe76880f5.png" />&nbsp;&nbsp;&nbsp;&nbsp;
-   <img height='50px' src="https://i.pinimg.com/originals/84/b1/06/84b1065e798f61aa80b8670a4b6fbb4d.png" />&nbsp;&nbsp;&nbsp;&nbsp;
+<br>
+
+<p align="center">
+  <a href="https://futurice.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/note-club-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/note-club-light.svg"><img alt="Current club: building digital products at Futurice, previously KWAN and Deloitte" src="assets/note-club-dark.svg" width="49%"></picture></a>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="assets/note-coaching-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/note-coaching-light.svg"><img alt="Former coaching jobs: Git and React tutor at EDIT, mentor at As Raparigas do Código" src="assets/note-coaching-dark.svg" width="49%"></picture>
+  <a href="https://pedro26.pt"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/note-art-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/note-art-light.svg"><img alt="Off the pitch: founder of PEDRO26, football illustration brand with 700+ customers" src="assets/note-art-dark.svg" width="49%"></picture></a>
+  <a href="https://caldassportclube.pt/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/note-home-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/note-home-light.svg"><img alt="Home ground: Caldas Sport Clube, the club from my hometown" src="assets/note-home-dark.svg" width="49%"></picture></a>
 </p>
-
-<hr>
-
-<h5 align='center'>
-    <img height='50px' src="https://user-images.githubusercontent.com/44099019/174815814-b63f7d9f-347a-432d-a749-f7fc83dde4f7.png" />
-    <br /><br />
-    <a href="https://pmlf.github.io/">>> Personal Website <<</a>
-    <br /><br />
-    <a href="https://www.linkedin.com/in/pedromlfonseca/">Hit me up!</a>
-</h5>
-
-<hr>
-
-<p align='center'>
-   <img height='40px' src="https://pedro26.pt/cdn/shop/files/IMG_2552_2236de18-8012-4e70-a629-64e1be4c552a.png?v=1727203801&width=500" />&nbsp;&nbsp;&nbsp;&nbsp;
-</p>
-<h4 align='center'>Freelance sports illustrator @<a href="https://pedro26.pt/">Pedro26.pt</a></h4>
-
-<br />
-
-#### Other important facts
-- <a href="https://caldassportclube.pt/">Caldas Sport Clube</a> fan ⚽

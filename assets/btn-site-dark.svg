@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="178" height="40" viewBox="0 0 178 40" role="img" aria-label="pedrofonseca.dev">
+<rect x=".5" y=".5" width="177" height="39" rx="10" fill="#0a0a0a" stroke="rgba(255,255,255,0.08)"/>
+<g transform="translate(16 12)"><circle cx="8" cy="8" r="6.5" fill="none" stroke="#f59e0b" stroke-width="1.4"/><ellipse cx="8" cy="8" rx="2.8" ry="6.5" fill="none" stroke="#f59e0b" stroke-width="1.4"/><line x1="1.5" y1="8" x2="14.5" y2="8" stroke="#f59e0b" stroke-width="1.4"/></g>
+<text x="42" y="24.5" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12.5" letter-spacing=".4" fill="#fafafa">pedrofonseca.dev</text>
+</svg>
