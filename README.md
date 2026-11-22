@@ -2,7 +2,7 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/matchday-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="assets/matchday-light.svg">
-    <img alt="Pedro Fonseca, design engineer, illustrator, teacher and founder" src="assets/matchday-dark.svg" width="100%">
+    <img alt="Pedro Fonseca, product engineer, illustrator, teacher and founder" src="assets/matchday-dark.svg" width="100%">
   </picture>
 
   <p>

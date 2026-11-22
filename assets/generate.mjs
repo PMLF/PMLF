@@ -65,7 +65,7 @@ function header(t, mode) {
     ["8", "CLIENT PROJECTS"],
     ["700+", "ART CUSTOMERS"],
   ];
-  return `<svg xmlns="http://www.w3.org/2000/svg" width="${W}" height="${H}" viewBox="0 0 ${W} ${H}" role="img" aria-label="Pedro Fonseca, design engineer, illustrator, teacher and founder. Matchday card, number 26.">
+  return `<svg xmlns="http://www.w3.org/2000/svg" width="${W}" height="${H}" viewBox="0 0 ${W} ${H}" role="img" aria-label="Pedro Fonseca, product engineer, illustrator, teacher and founder. Matchday card, number 26.">
 <style>${baseStyle(t)}
   .flood { animation: flood 6s ease-in-out infinite; }
   @keyframes flood { 0%,100% { opacity: .75; } 50% { opacity: 1; } }
@@ -100,7 +100,7 @@ function header(t, mode) {
   <text x="36" y="180" class="sans" font-size="68" font-weight="900" letter-spacing="-2.5" fill="${t.text}">FONSECA<tspan fill="${t.accent}">.</tspan></text>
 </g>
 <g class="up" style="animation-delay:.35s">
-  <text x="40" y="214" class="sans" font-size="17" fill="${t.muted}"><tspan fill="${t.text}" font-weight="700">Design Engineer.</tspan> Illustrator. Teacher. Founder.</text>
+  <text x="40" y="214" class="sans" font-size="17" fill="${t.muted}"><tspan fill="${t.text}" font-weight="700">Product Engineer.</tspan> Illustrator. Teacher. Founder.</text>
 </g>
 <g class="up" style="animation-delay:.5s">
   <line x1="40" y1="236" x2="560" y2="236" stroke="${t.line}"/>
